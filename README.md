@@ -43,60 +43,53 @@ Data preparation was performed using Power Query:
 ## 🧩 Data Model
 The data model connects customers, products, employees, orders, order items, sales targets, returns, and the calendar table to support interactive analysis.
 
-**📸 Add your data model screenshot below.**
 
-`![Power BI Data Model](screenshots/data-model.png)`
+<img width="437" height="381" alt="DataModel" src="https://github.com/user-attachments/assets/acbc3c60-c0ce-4e24-9dbb-58e4a20eaf45" />
+
 
 ## 📈 Dashboard Pages
 
 ### 1. Executive Overview
 Provides a high-level summary of sales, gross profit, gross margin, orders, units sold, average order value, and target attainment.
 
-**📸 Add Executive Overview screenshot below.**
+<img width="700" height="392" alt="Executive_overview" src="https://github.com/user-attachments/assets/0bb4944c-c559-45ba-94a9-8a50511f0c4e" />
 
-`![Executive Overview](screenshots/01-executive-overview.png)`
 
 ### 2. Sales Performance & Targets
 Analyzes sales trends, regional performance, sales channels, order status, and actual sales compared with targets.
 
-**📸 Add Sales Performance & Targets screenshot below.**
+<img width="710" height="398" alt="Sales_Performance Target" src="https://github.com/user-attachments/assets/9b8973e4-c00b-4d4d-b749-618f9c21cc7b" />
 
-`![Sales Performance and Targets](screenshots/02-sales-performance-targets.png)`
 
 ### 3. Product & Category Analysis
 Evaluates product and category performance, subcategory sales, profitability, and factors associated with product categories.
 
-**📸 Add Product & Category Analysis screenshot below.**
+<img width="709" height="397" alt="Product Category_Analysis" src="https://github.com/user-attachments/assets/154a8b5f-6c4e-471d-8af4-5bea0299be9d" />
 
-`![Product and Category Analysis](screenshots/03-product-category-analysis.png)`
 
 ### 4. Customer Insights
 Explores customer segments, customer sales contribution, purchasing behavior, and customer-level performance.
 
-**📸 Add Customer Insights screenshot below.**
+<img width="709" height="398" alt="Customer_Insights" src="https://github.com/user-attachments/assets/051861c8-0284-468d-831e-f489f2166a6d" />
 
-`![Customer Insights](screenshots/04-customer-insights.png)`
 
 ### 5. Sales Team Performance
 Analyzes employee sales performance, profitability, and individual contributions to business results.
 
-**📸 Add Sales Team Performance screenshot below.**
+<img width="707" height="398" alt="Sales_Team_performance" src="https://github.com/user-attachments/assets/90653e8e-f120-41c1-8d9e-68721e07b521" />
 
-`![Sales Team Performance](screenshots/05-sales-team-performance.png)`
 
 ### 6. Returns & Operations
 Examines product returns and operational indicators to identify return patterns and areas requiring attention.
 
-**📸 Add Returns & Operations screenshot below.**
+<img width="709" height="399" alt="Returns Operations" src="https://github.com/user-attachments/assets/2fedf118-5b1f-48a3-8727-f17d8f14d46e" />
 
-`![Returns and Operations](screenshots/06-returns-operations.png)`
 
 ### 7. Order Details
 Provides detailed order-level information for reviewing transactions and investigating sales records.
 
-**📸 Add Order Details screenshot below.**
+<img width="710" height="399" alt="Order_Details" src="https://github.com/user-attachments/assets/c8ac2031-04f5-4204-afaf-9d28785f0564" />
 
-`![Order Details](screenshots/07-order-details.png)`
 
 ## 📐 Key Performance Indicators (KPIs)
 - Net Sales
@@ -128,9 +121,8 @@ Provides detailed order-level information for reviewing transactions and investi
 ## 🔍 Report Page Tooltip
 A dedicated **Region Tooltip** report page provides additional regional sales information when users hover over the Sales by Region visual, improving dashboard interactivity without navigating away from the main report.
 
-**📸 Optional: Add a screenshot of the Region Tooltip here.**
+<img width="299" height="221" alt="Region_ToolTip" src="https://github.com/user-attachments/assets/eb21e9d2-a9b2-4270-90bc-9e71613bb6e0" />
 
-`![Region Tooltip](screenshots/region-tooltip.png)`
 
 ## ✅ Validation & Quality Checks
 - Checked dimension key uniqueness and data types.
@@ -150,8 +142,7 @@ A dedicated **Region Tooltip** report page provides additional regional sales in
 This project demonstrates how Power BI can convert raw retail data into meaningful business insights, support KPI monitoring, compare performance against targets, and help stakeholders investigate sales, customer, product, employee, and operational trends.
 
 ## 👩‍💻 Author
-**Sravanti**  
-B.Tech – Computer Science and Engineering (AI & ML), 2026
+**Sravanti Kondala**  
 
 **Skills:** Power BI | DAX | Power Query | Microsoft Excel | SQL | Data Analytics
 
